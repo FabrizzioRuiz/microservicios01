@@ -1,0 +1,198 @@
+2021-01-23 19:50:05,345 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-01-23 19:50:58,721 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios.common.examenes:common-examenes:0.0.1-SNAPSHOT @ /Volumes/HDD/workspace-java/microservicios-part1/common-examenes/pom.xml.
+2021-01-23 19:51:00,609 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:51:00,616 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-23 19:51:00,652 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:51:00,656 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:51:00,656 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/common-examenes/src/test/resources
+2021-01-23 19:51:01,521 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios.common.examenes:common-examenes:0.0.1-SNAPSHOT @ /Volumes/HDD/workspace-java/microservicios-part1/common-examenes/pom.xml.
+2021-01-23 19:51:04,031 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:51:04,035 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-23 19:51:04,056 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:51:04,059 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:51:04,060 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/common-examenes/src/test/resources
+2021-01-23 19:51:04,215 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:51:04,215 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:51:04,215 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:51:04,217 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:51:04,217 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/common-examenes/src/test/resources
+2021-01-23 19:51:52,992 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios.commons.alumnos:commons-alumnos:0.0.1-SNAPSHOT @ /Volumes/HDD/workspace-java/microservicios-part1/commons-alumnos/pom.xml.
+2021-01-23 19:51:53,397 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:51:53,397 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-23 19:51:53,399 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:51:53,401 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:51:53,401 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/commons-alumnos/src/test/resources
+2021-01-23 19:51:54,653 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios.commons.alumnos:commons-alumnos:0.0.1-SNAPSHOT @ /Volumes/HDD/workspace-java/microservicios-part1/commons-alumnos/pom.xml.
+2021-01-23 19:51:54,934 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:51:54,934 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-23 19:51:54,939 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:51:54,944 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:51:54,946 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/commons-alumnos/src/test/resources
+2021-01-23 19:51:55,469 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:51:55,469 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:51:55,470 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:51:55,472 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:51:55,472 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/commons-alumnos/src/test/resources
+2021-01-23 19:52:13,804 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios.commons:commons-microservicios:0.0.1-SNAPSHOT @ /Volumes/HDD/workspace-java/microservicios-part1/commons-microservicios/pom.xml.
+2021-01-23 19:52:14,068 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:14,068 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-23 19:52:14,069 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:52:14,072 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:14,073 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/commons-microservicios/src/test/resources
+2021-01-23 19:52:14,373 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios.commons:commons-microservicios:0.0.1-SNAPSHOT @ /Volumes/HDD/workspace-java/microservicios-part1/commons-microservicios/pom.xml.
+2021-01-23 19:52:15,515 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:15,516 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-23 19:52:15,518 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:52:15,521 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:15,522 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/commons-microservicios/src/test/resources
+2021-01-23 19:52:28,747 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios.app.cursos:microservicios-cursos:0.0.1-SNAPSHOT @ /Volumes/HDD/workspace-java/microservicios-part1/microservicios-cursos/pom.xml.
+2021-01-23 19:52:29,268 [Worker-10: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-microservicios: com.microservicios.commons:commons-microservicios:0.0.1-SNAPSHOT with classifier  to /commons-microservicios/target/classes
+2021-01-23 19:52:29,269 [Worker-10: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-alumnos: com.microservicios.commons.alumnos:commons-alumnos:0.0.1-SNAPSHOT with classifier  to /commons-alumnos/target/classes
+2021-01-23 19:52:29,270 [Worker-10: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-examenes: com.microservicios.common.examenes:common-examenes:0.0.1-SNAPSHOT with classifier  to /common-examenes/target/classes
+2021-01-23 19:52:29,555 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:29,555 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-23 19:52:29,569 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:52:29,572 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:29,572 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/microservicios-cursos/src/test/resources
+2021-01-23 19:52:30,672 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios.app.cursos:microservicios-cursos:0.0.1-SNAPSHOT @ /Volumes/HDD/workspace-java/microservicios-part1/microservicios-cursos/pom.xml.
+2021-01-23 19:52:31,561 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-microservicios: com.microservicios.commons:commons-microservicios:0.0.1-SNAPSHOT with classifier  to /commons-microservicios/target/classes
+2021-01-23 19:52:31,561 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-alumnos: com.microservicios.commons.alumnos:commons-alumnos:0.0.1-SNAPSHOT with classifier  to /commons-alumnos/target/classes
+2021-01-23 19:52:31,562 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-examenes: com.microservicios.common.examenes:common-examenes:0.0.1-SNAPSHOT with classifier  to /common-examenes/target/classes
+2021-01-23 19:52:32,189 [Worker-12: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-microservicios: com.microservicios.commons:commons-microservicios:0.0.1-SNAPSHOT with classifier  to /commons-microservicios/target/classes
+2021-01-23 19:52:32,189 [Worker-12: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-alumnos: com.microservicios.commons.alumnos:commons-alumnos:0.0.1-SNAPSHOT with classifier  to /commons-alumnos/target/classes
+2021-01-23 19:52:32,190 [Worker-12: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-examenes: com.microservicios.common.examenes:common-examenes:0.0.1-SNAPSHOT with classifier  to /common-examenes/target/classes
+2021-01-23 19:52:32,202 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:32,205 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-23 19:52:32,213 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:52:32,215 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:32,215 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/microservicios-cursos/src/test/resources
+2021-01-23 19:52:34,326 [Worker-8: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-microservicios: com.microservicios.commons:commons-microservicios:0.0.1-SNAPSHOT with classifier  to /commons-microservicios/target/classes
+2021-01-23 19:52:34,326 [Worker-8: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-alumnos: com.microservicios.commons.alumnos:commons-alumnos:0.0.1-SNAPSHOT with classifier  to /commons-alumnos/target/classes
+2021-01-23 19:52:34,327 [Worker-8: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-examenes: com.microservicios.common.examenes:common-examenes:0.0.1-SNAPSHOT with classifier  to /common-examenes/target/classes
+2021-01-23 19:52:34,338 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:34,338 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:52:34,338 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:52:34,340 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:34,340 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/microservicios-cursos/src/test/resources
+2021-01-23 19:52:37,292 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios.app.eureka:microservicios-eureka:0.0.1-SNAPSHOT @ /Volumes/HDD/workspace-java/microservicios-part1/microservicios-eureka/pom.xml.
+2021-01-23 19:52:37,967 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:37,967 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-23 19:52:37,985 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:52:37,987 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:37,987 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/microservicios-eureka/src/test/resources
+2021-01-23 19:52:39,045 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios.app.eureka:microservicios-eureka:0.0.1-SNAPSHOT @ /Volumes/HDD/workspace-java/microservicios-part1/microservicios-eureka/pom.xml.
+2021-01-23 19:52:39,742 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:39,743 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-23 19:52:39,744 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:52:39,746 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:39,746 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/microservicios-eureka/src/test/resources
+2021-01-23 19:52:40,657 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:40,657 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:52:40,657 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:52:40,659 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:40,659 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/microservicios-eureka/src/test/resources
+2021-01-23 19:52:47,168 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios.app.examenes:microservicios-examenes:0.0.1-SNAPSHOT @ /Volumes/HDD/workspace-java/microservicios-part1/microservicios-examenes/pom.xml.
+2021-01-23 19:52:47,480 [Worker-10: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-microservicios: com.microservicios.commons:commons-microservicios:0.0.1-SNAPSHOT with classifier  to /commons-microservicios/target/classes
+2021-01-23 19:52:47,481 [Worker-10: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-examenes: com.microservicios.common.examenes:common-examenes:0.0.1-SNAPSHOT with classifier  to /common-examenes/target/classes
+2021-01-23 19:52:47,659 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:47,660 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-23 19:52:47,661 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:52:47,663 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:47,663 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/microservicios-examenes/src/test/resources
+2021-01-23 19:52:48,899 [Worker-9: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios.app.examenes:microservicios-examenes:0.0.1-SNAPSHOT @ /Volumes/HDD/workspace-java/microservicios-part1/microservicios-examenes/pom.xml.
+2021-01-23 19:52:49,348 [Worker-9: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-microservicios: com.microservicios.commons:commons-microservicios:0.0.1-SNAPSHOT with classifier  to /commons-microservicios/target/classes
+2021-01-23 19:52:49,348 [Worker-9: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-examenes: com.microservicios.common.examenes:common-examenes:0.0.1-SNAPSHOT with classifier  to /common-examenes/target/classes
+2021-01-23 19:52:49,477 [Worker-10: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-microservicios: com.microservicios.commons:commons-microservicios:0.0.1-SNAPSHOT with classifier  to /commons-microservicios/target/classes
+2021-01-23 19:52:49,477 [Worker-10: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-examenes: com.microservicios.common.examenes:common-examenes:0.0.1-SNAPSHOT with classifier  to /common-examenes/target/classes
+2021-01-23 19:52:49,483 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:49,483 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-23 19:52:49,485 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:52:49,487 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:49,487 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/microservicios-examenes/src/test/resources
+2021-01-23 19:52:50,342 [Worker-2: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-microservicios: com.microservicios.commons:commons-microservicios:0.0.1-SNAPSHOT with classifier  to /commons-microservicios/target/classes
+2021-01-23 19:52:50,343 [Worker-2: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-examenes: com.microservicios.common.examenes:common-examenes:0.0.1-SNAPSHOT with classifier  to /common-examenes/target/classes
+2021-01-23 19:52:50,349 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:50,349 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:52:50,349 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:52:50,353 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:50,353 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/microservicios-examenes/src/test/resources
+2021-01-23 19:52:58,094 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios.app.gateway:microservicios-gateway:0.0.1-SNAPSHOT @ /Volumes/HDD/workspace-java/microservicios-part1/microservicios-gateway/pom.xml.
+2021-01-23 19:52:58,563 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:58,564 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-23 19:52:58,565 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:52:58,567 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:52:58,567 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/microservicios-gateway/src/test/resources
+2021-01-23 19:52:58,854 [Worker-11: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios.app.gateway:microservicios-gateway:0.0.1-SNAPSHOT @ /Volumes/HDD/workspace-java/microservicios-part1/microservicios-gateway/pom.xml.
+2021-01-23 19:53:00,291 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:53:00,291 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-23 19:53:00,292 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:53:00,294 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:53:00,294 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/microservicios-gateway/src/test/resources
+2021-01-23 19:53:07,445 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios.app.respuesta:microservicios-respuesta:0.0.1-SNAPSHOT @ /Volumes/HDD/workspace-java/microservicios-part1/microservicios-respuesta/pom.xml.
+2021-01-23 19:53:07,721 [Worker-2: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-examenes: com.microservicios.common.examenes:common-examenes:0.0.1-SNAPSHOT with classifier  to /common-examenes/target/classes
+2021-01-23 19:53:07,723 [Worker-2: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-alumnos: com.microservicios.commons.alumnos:commons-alumnos:0.0.1-SNAPSHOT with classifier  to /commons-alumnos/target/classes
+2021-01-23 19:53:08,065 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:53:08,066 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-23 19:53:08,068 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:53:08,070 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:53:08,070 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/microservicios-respuesta/src/test/resources
+2021-01-23 19:53:09,066 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios.app.respuesta:microservicios-respuesta:0.0.1-SNAPSHOT @ /Volumes/HDD/workspace-java/microservicios-part1/microservicios-respuesta/pom.xml.
+2021-01-23 19:53:09,383 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-examenes: com.microservicios.common.examenes:common-examenes:0.0.1-SNAPSHOT with classifier  to /common-examenes/target/classes
+2021-01-23 19:53:09,385 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-alumnos: com.microservicios.commons.alumnos:commons-alumnos:0.0.1-SNAPSHOT with classifier  to /commons-alumnos/target/classes
+2021-01-23 19:53:09,724 [Worker-6: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-examenes: com.microservicios.common.examenes:common-examenes:0.0.1-SNAPSHOT with classifier  to /common-examenes/target/classes
+2021-01-23 19:53:09,726 [Worker-6: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-alumnos: com.microservicios.commons.alumnos:commons-alumnos:0.0.1-SNAPSHOT with classifier  to /commons-alumnos/target/classes
+2021-01-23 19:53:09,755 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:53:09,755 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-23 19:53:09,756 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:53:09,758 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:53:09,758 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/microservicios-respuesta/src/test/resources
+2021-01-23 19:53:10,645 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-examenes: com.microservicios.common.examenes:common-examenes:0.0.1-SNAPSHOT with classifier  to /common-examenes/target/classes
+2021-01-23 19:53:10,648 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-alumnos: com.microservicios.commons.alumnos:commons-alumnos:0.0.1-SNAPSHOT with classifier  to /commons-alumnos/target/classes
+2021-01-23 19:53:10,691 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:53:10,691 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:53:10,691 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:53:10,693 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:53:10,693 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/microservicios-respuesta/src/test/resources
+2021-01-23 19:53:17,337 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios.app.usuarios:microservicios-usuarios:0.0.1-SNAPSHOT @ /Volumes/HDD/workspace-java/microservicios-part1/microservicios-usuarios/pom.xml.
+2021-01-23 19:53:17,621 [Worker-14: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-microservicios: com.microservicios.commons:commons-microservicios:0.0.1-SNAPSHOT with classifier  to /commons-microservicios/target/classes
+2021-01-23 19:53:17,621 [Worker-14: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-alumnos: com.microservicios.commons.alumnos:commons-alumnos:0.0.1-SNAPSHOT with classifier  to /commons-alumnos/target/classes
+2021-01-23 19:53:17,898 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:53:17,898 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-23 19:53:17,905 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:53:17,907 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:53:17,907 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/microservicios-usuarios/src/test/resources
+2021-01-23 19:53:19,056 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios.app.usuarios:microservicios-usuarios:0.0.1-SNAPSHOT @ /Volumes/HDD/workspace-java/microservicios-part1/microservicios-usuarios/pom.xml.
+2021-01-23 19:53:19,382 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-microservicios: com.microservicios.commons:commons-microservicios:0.0.1-SNAPSHOT with classifier  to /commons-microservicios/target/classes
+2021-01-23 19:53:19,382 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-alumnos: com.microservicios.commons.alumnos:commons-alumnos:0.0.1-SNAPSHOT with classifier  to /commons-alumnos/target/classes
+2021-01-23 19:53:19,627 [Worker-2: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-microservicios: com.microservicios.commons:commons-microservicios:0.0.1-SNAPSHOT with classifier  to /commons-microservicios/target/classes
+2021-01-23 19:53:19,628 [Worker-2: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-alumnos: com.microservicios.commons.alumnos:commons-alumnos:0.0.1-SNAPSHOT with classifier  to /commons-alumnos/target/classes
+2021-01-23 19:53:19,632 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:53:19,633 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-23 19:53:19,634 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:53:19,636 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:53:19,636 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/microservicios-usuarios/src/test/resources
+2021-01-23 19:53:21,276 [Worker-12: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-microservicios: com.microservicios.commons:commons-microservicios:0.0.1-SNAPSHOT with classifier  to /commons-microservicios/target/classes
+2021-01-23 19:53:21,276 [Worker-12: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-alumnos: com.microservicios.commons.alumnos:commons-alumnos:0.0.1-SNAPSHOT with classifier  to /commons-alumnos/target/classes
+2021-01-23 19:53:21,283 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:53:21,283 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:53:21,283 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:53:21,286 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:53:21,286 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/microservicios-usuarios/src/test/resources
+2021-01-23 19:53:29,162 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios.app.zuul:microservicios-zuul:0.0.1-SNAPSHOT @ /Volumes/HDD/workspace-java/microservicios-part1/microservicios-zuul/pom.xml.
+2021-01-23 19:53:29,575 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:53:29,575 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-23 19:53:29,576 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:53:29,577 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:53:29,578 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/microservicios-zuul/src/test/resources
+2021-01-23 19:53:30,793 [Worker-11: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservicios.app.zuul:microservicios-zuul:0.0.1-SNAPSHOT @ /Volumes/HDD/workspace-java/microservicios-part1/microservicios-zuul/pom.xml.
+2021-01-23 19:53:31,398 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:53:31,399 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-23 19:53:31,400 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:53:31,402 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:53:31,402 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/microservicios-zuul/src/test/resources
+2021-01-23 19:53:32,122 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:53:32,122 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:53:32,122 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-23 19:53:32,123 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-23 19:53:32,123 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/HDD/workspace-java/microservicios-part1/microservicios-zuul/src/test/resources
+2021-01-23 19:53:54,369 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
