@@ -17,28 +17,24 @@ public class CommonServiceImpl<E, R extends PagingAndSortingRepository<E, Long>>
 	@Override
 	@Transactional( readOnly = true )
 	public Iterable<E> findAll() {
-		// TODO Auto-generated method stub
 		return repository.findAll();
 	}
 
 	@Override
 	@Transactional( readOnly = true )
 	public Optional<E> findById(Long id) {
-		// TODO Auto-generated method stub
 		return repository.findById(id);
 	}
 
 	@Override
 	@Transactional
 	public E save(E entity) {
-		// TODO Auto-generated method stub
 		return repository.save(entity);
 	}
 
 	@Override
 	@Transactional
 	public void deleteById(Long id) {
-		// TODO Auto-generated method stub
 		repository.deleteById(id);
 	}
 

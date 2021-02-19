@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
@@ -16,8 +17,10 @@ import javax.persistence.PrePersist;
 import javax.persistence.Table;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
+import javax.persistence.Transient;
 import javax.validation.constraints.NotEmpty;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.microservicios.common.examenes.models.entity.Examen;
 import com.microservicios.commons.alumnos.models.entity.Alumno;
 
@@ -37,7 +40,12 @@ public class Curso {
 	@Temporal(TemporalType.TIMESTAMP)
 	private Date createAt;
 	
-	@OneToMany(fetch = FetchType.LAZY)
+	@JsonIgnoreProperties(value = {"curso"}, allowSetters = true)
+	@OneToMany(fetch = FetchType.LAZY, mappedBy = "curso", cascade = CascadeType.ALL, orphanRemoval = true)
+	private List<CursoAlumno> cursoAlumnos;
+	
+	//@OneToMany(fetch = FetchType.LAZY)
+	@Transient
 	private List<Alumno> alumnos;
 
 	@ManyToMany(fetch = FetchType.LAZY)
@@ -46,6 +54,7 @@ public class Curso {
 	public Curso() {
 		this.alumnos = new ArrayList<>();
 		this.examenes = new ArrayList<>();
+		this.cursoAlumnos = new ArrayList<>();
 	}
 
 	@PrePersist
@@ -107,6 +116,22 @@ public class Curso {
 	
 	public void removeExamen(Examen examen) {
 		this.examenes.remove(examen);
+	}
+
+	public List<CursoAlumno> getCursoAlumnos() {
+		return cursoAlumnos;
+	}
+
+	public void setCursoAlumnos(List<CursoAlumno> cursoAlumnos) {
+		this.cursoAlumnos = cursoAlumnos;
+	}
+	
+	public void addCursoAlumno(CursoAlumno cursoAlumnos) {
+		this.cursoAlumnos.add(cursoAlumnos);
+	}
+	
+	public void removeCursoAlumno(CursoAlumno cursoAlumnos) {
+		this.cursoAlumnos.remove(cursoAlumnos);
 	}
 	
 	
