@@ -1,7 +1,7 @@
 package com.microservicios.app.respuesta.models.entity;
 
 import org.springframework.data.annotation.Id;
-import org.springframework.data.annotation.Transient;
+//import org.springframework.data.annotation.Transient;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 import com.microservicios.common.examenes.models.entity.Pregunta;
@@ -19,7 +19,7 @@ public class Respuesta {
 	//Transient para que no este mapeado a la tabla
 	//@Transient - javax-persistence
 	
-	@Transient
+	//@Transient
 	private Alumno alumno;
 	
 	/**
@@ -31,7 +31,7 @@ public class Respuesta {
 	private Long alumnoId;
 	
 	//@OneToOne(fetch = FetchType.LAZY)
-	@Transient
+	//@Transient
 	private Pregunta pregunta;
 	
 	private Long preguntaId;
