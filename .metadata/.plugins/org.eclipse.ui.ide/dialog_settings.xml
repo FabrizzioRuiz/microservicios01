@@ -4,6 +4,7 @@
 		<item value="com.ianbrandt.tools.m2e.mdp.feature:0.0.4.201409291703"/>
 		<item value="net.mihai-nita.ansicon:1.4.3.202012111715"/>
 		<item value="org.eclipse.buildship:3.1.4.v20200326-1743"/>
+		<item value="org.eclipse.eclemma.feature:3.1.4.202012082030"/>
 		<item value="org.eclipse.egit.gitflow.feature:5.10.0.202012080955-r"/>
 		<item value="org.eclipse.egit:5.10.0.202012080955-r"/>
 		<item value="org.eclipse.emf.common:2.21.0.v20200917-1439"/>
