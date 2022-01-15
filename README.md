@@ -1,4 +1,2 @@
-# microservicios01
-Microservicios con misma Base de Datos
-
+# Microservicios con SpringBoot y Angular
 Ejemplo de microservicios con Spring Cloud
